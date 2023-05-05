@@ -1,0 +1,49 @@
+{
+  "Trainee": [
+    {
+      "TraineeName": "vasanth",
+      "DOB": "07-10-2001",
+      "Gender": "male",
+      "Qualification": "bca",
+      "TrainingRequired": "no",
+      "Image": "assets/images/foodCircle.png",
+      "id": 1
+    },
+    {
+      "TraineeName": "hari",
+      "DOB": "10-12-2012",
+      "Gender": "male",
+      "Qualification": "bca",
+      "TrainingRequired": "no",
+      "Image": "assets/images/foodCircle.png",
+      "id": 2
+    },
+    {
+      "TraineeName": "ravi",
+      "DOB": "23-9-12",
+      "Gender": "male",
+      "Qualification": "bca",
+      "TrainingRequired": "yes",
+      "Image": "assets/images/download.png",
+      "id": 4
+    },
+    {
+      "TraineeName": "vbdfdf",
+      "DOB": "56654",
+      "Gender": "fgfdgdf",
+      "Qualification": "vdfvfdvfd",
+      "TrainingRequired": "dcdsvdsvs",
+      "Image": "assets/images/download.png",
+      "id": 5
+    },
+    {
+      "TraineeName": "vasas",
+      "DOB": "4543",
+      "Gender": "bfdbfd",
+      "Qualification": "fgfdgf",
+      "TrainingRequired": "vbfdb",
+      "Image": "assets/images/download.png",
+      "id": 6
+    }
+  ]
+}
