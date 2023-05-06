@@ -10,15 +10,6 @@
       "id": 1
     },
     {
-      "TraineeName": "hari",
-      "DOB": "10-12-2012",
-      "Gender": "male",
-      "Qualification": "bca",
-      "TrainingRequired": "no",
-      "Image": "assets/images/images (1).jfif",
-      "id": 2
-    },
-    {
       "TraineeName": "ravi",
       "DOB": "23-9-12",
       "Gender": "male",
@@ -26,6 +17,15 @@
       "TrainingRequired": "yes",
       "Image": "assets/images/download (1).jfif",
       "id": 4
+    },
+    {
+      "TraineeName": "vasanth",
+      "DOB": "07-12-2022",
+      "Gender": "male",
+      "Qualification": "developer",
+      "TrainingRequired": "yes",
+      "Image": "assets/images/images (2).jfif",
+      "id": 5
     }
   ]
 }

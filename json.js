@@ -14,7 +14,7 @@ function loadTable(TraineeName = '') {
                 trHTML += "<td>" + object["TraineeName"] + "</td>";
                 trHTML += "<td>" + object["DOB"] + "</td>";
                 trHTML += "<td>" + object["Gender"] + "</td>";
-                trHTML += "<td>" + object["	Qualification"] + "</td>";
+                trHTML += "<td>" + object["Qualification"] + "</td>";
                 trHTML += "<td>" + object["TrainingRequired"] + "</td>";
                 trHTML +=
                     '<td><img width="50px" src="' +
