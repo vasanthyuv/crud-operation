@@ -101,7 +101,7 @@ function showUserEditBox(id) {
 
             console.log(objects);
             Swal.fire({
-                title: "Edit Restaurant-List",
+                title: "Edit Trainee-List",
                 html: '<input id="id" type="hidden" value="' +
                     objects[`${id}`] + '">' +
                     '<input id="TraineeName" class="swal2-input" placeholder="name" value="' +
